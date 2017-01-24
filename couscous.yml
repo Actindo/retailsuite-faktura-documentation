@@ -9,6 +9,7 @@ template:
     index: index.md
 
 layout: documentation
+current_menu: documentation
 
 
 # List of directories to include in the processing (by default it's empty, so all markdown files are parsed)
