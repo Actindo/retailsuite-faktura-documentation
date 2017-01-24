@@ -4,4 +4,7 @@ current_menu: documentation
 title: "RetailSuite Faktura - Dokumentation"
 ---
 
-lorem ipsum
+## Benutzerdokumentation der Actindo Faktura
+
+[Einstellungen](Einstellungen/Faktura/Übersicht.md)
+
