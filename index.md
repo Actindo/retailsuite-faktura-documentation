@@ -6,5 +6,5 @@ title: "RetailSuite Faktura - Dokumentation"
 
 ## Benutzerdokumentation der Actindo Faktura
 
-[Einstellungen](Einstellungen/Faktura/Übersicht.md)
+[Einstellungen](Einstellungen/Faktura/Uebersicht.md)
 
