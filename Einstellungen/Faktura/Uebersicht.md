@@ -1,4 +1,4 @@
-# Faktura-Einstellungen
+## Faktura-Einstellungen
 
 Die Einstellungen der Faktura finden Sie im Menu unter "Einstellungen -> Faktura".
 Es öffnet sich ein Fenster mit folgenden Einstellungen:
