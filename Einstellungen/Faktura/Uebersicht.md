@@ -1,3 +1,9 @@
+---
+layout: documentation
+current_menu: documentation
+title: "RetailSuite Faktura - Dokumentation"
+---
+
 ## Faktura-Einstellungen
 
 Die Einstellungen der Faktura finden Sie im Menu unter "Einstellungen -> Faktura".
