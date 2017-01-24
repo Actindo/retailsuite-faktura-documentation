@@ -58,9 +58,9 @@ page:
         dev:
             grouptitle: Einstellungen
             children:
-                devapi:
+                einstellungen:
                     text: Einstellungen Faktura
-                    relativeUrl: Einstellungen/Faktura/Übersicht.html
+                    relativeUrl: Einstellungen/Faktura/Uebersicht.html
                     chapter:
                         Belegnummern:
                             text: Belegnummern
