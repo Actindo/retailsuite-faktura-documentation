@@ -55,7 +55,7 @@ current_menu: documentation
 page:
     title: Dokumentationen
     menu:
-        dev:
+        settings:
             grouptitle: Einstellungen
             children:
                 einstellungen:
