@@ -1,4 +1,10 @@
-# Belegnummern-Einstellungen
+---
+current_group: settings
+current_doku: einstellungen
+current_chapter: Belegnummern
+---
+
+## Belegnummern-Einstellungen
 
 In diesem Bereich treffen Sie die Einstellungen für Belegnummern-Format und -Länge.
 
