@@ -1,6 +1,6 @@
 ---
-current_menu: settings
-current_group: einstellungen
+current_group: settings
+current_doku: einstellungen
 ---
 
 ## Faktura-Einstellungen
