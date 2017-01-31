@@ -1,10 +1,10 @@
 ---
 current_group: settings
 current_doku: einstellungen
-current_chapter: Belegnummern
+current_chapter: Texte / Layouts
 ---
 
-## Belegnummern-Einstellungen
+## Rechnung
 
 In diesem Bereich treffen Sie die Einstellungen für Belegnummern-Format und -Länge.
 

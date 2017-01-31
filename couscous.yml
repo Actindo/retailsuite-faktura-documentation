@@ -53,14 +53,15 @@ current_menu: documentation
 
 # side menu
 page:
-    title: Dokumentationen
+    title: RetailSuite Faktura
     menu:
         settings:
-            grouptitle: Einstellungen
+            grouptitle: Einstellungen Faktura
+            relativeUrl: Einstellungen/Faktura/Uebersicht.md
             children:
-                einstellungen:
-                    text: Einstellungen Faktura
-                    relativeUrl: Einstellungen/Faktura/Uebersicht.html
+                Grundeinstellungen:
+                    text: Grundeinstellungen
+                    relativeUrl: Einstellungen/Faktura/Grundeinstellungen/Uebersicht.md
                     chapter:
                         Belegnummern:
                             text: Belegnummern
@@ -74,9 +75,16 @@ page:
                         resources:
                             text: Ressourcen
                             relativeUrl: docs/intellicore_dev/getting_started/ressourcen.html
-                mdapi:
-                    text: Markdown
-                    relativeUrl: docs/intellicore_dev/markdown/intellicore_markdown.html
+                Artikel:
+                    text: Artikel
+                    relativeUrl: Einstellungen/Faktura/Artikel/Uebersicht.md
+                    chapter:
+                        Artikellisten:
+                            text: Artikellisten
+                            relativeUrl: Einstellungen/Faktura/Artikel/Artikellisten.md
+                        Bestandswarnung:
+                            text: Bestandswarnung
+                            relativeUrl: Einstellungen/Faktura/Artikel/Artikellisten.md
         api:
             grouptitle: API Dokumentation
             children:
